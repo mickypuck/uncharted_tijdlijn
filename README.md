@@ -33,10 +33,9 @@ Mijn startniveau is: blauw
 
   ### Je ambitie:
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Parallax scrolling
+  - Grid/Flex
+  - Semantisch correctheid
 
 </details>
 
@@ -49,23 +48,39 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  <img src="readme-images/schets1.jpg" width="375px" alt="eerste versie/schets">
+  Jeremy leek het handig om ook de game te vermelden waar de Nathan Drake in voor komt en het jaartal.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik heb dit nog niet gecodeerd, maar ga ik zeker vermelden.
 
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Een parallax effect zou heel cool zijn om hier voor te gebruiken. Ook door de timeline rechts op de pagina.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
+  Ik heb dit nog niet gecodeerd, maar ga ik zeker vermelden. Een parallax was al mijn idee, maar Jeremy had ook aangegeven dat ik dan de timeline rechts ook mee zou kunnen bewegen.
 
   ### Bevinding 3:
-  ...
+  <img src="readme-images/schets2.jpg" width="375px" alt="eerste versie/schets">
+  Omdat ik best weinig zou css'en en dat wel een doel is, zei Jeremy dat ik het kompas in css zou kunnen maken
+
+  #### oplossing:
+  Ik heb dit nog niet gecodeerd, maar ga ik zeker proberen te doen!
+
+
+  ### Bevinding 4:
+  Sanne had aangegeven dat er maar 1 pagina mag zijn. Ik zou een popup kunnen gebruiken voor de 'tweede' pagina, maar dat leek mij niet heel handig, want ik wil dat de popup dan een soort pagina wordt en ik heb het idee dat dat veel te moeilijk zou worden.
+
+  #### oplossing:
+  Deze pagina haal ik weg. Het wordt nu alleen de pagina die je ziet in mijn eerste schets. Die is ook meer advanced.
+
+  ### Bevinding 5:
+  Jeremy gaf aan dat ik misschien deze pagina in het klein zou kunnen weergeven op de andere pagina, sinds deze wegvalt. Zodat je weet waar de Nathan Drake zich bevind in de timeline.
+
+  #### oplossing:
+  Ik heb dit nog niet gecodeerd, maar ga ik zeker vermelden.
 
 </details>
 
