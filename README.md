@@ -45,7 +45,7 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 1
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen</summary>
 
   ### Bevinding 1:
   <img src="readme-images/schets1.jpg" width="375px" alt="eerste versie/schets">
@@ -55,12 +55,12 @@ Mijn startniveau is: blauw
   Ik heb dit nog niet gecodeerd, maar ga ik zeker vermelden.
 
 
-
   ### Bevinding 2:
   Een parallax effect zou heel cool zijn om hier voor te gebruiken. Ook door de timeline rechts op de pagina.
 
   #### oplossing:
   Ik heb dit nog niet gecodeerd, maar ga ik zeker vermelden. Een parallax was al mijn idee, maar Jeremy had ook aangegeven dat ik dan de timeline rechts ook mee zou kunnen bewegen.
+
 
   ### Bevinding 3:
   <img src="readme-images/schets2.jpg" width="375px" alt="eerste versie/schets">
@@ -71,10 +71,12 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 4:
+  <img src="readme-images/ontwerp1.png.jpg" width="375px" alt="eerste versie/ontwerp">
   Sanne had aangegeven dat er maar 1 pagina mag zijn. Ik zou een popup kunnen gebruiken voor de 'tweede' pagina, maar dat leek mij niet heel handig, want ik wil dat de popup dan een soort pagina wordt en ik heb het idee dat dat veel te moeilijk zou worden.
 
   #### oplossing:
   Deze pagina haal ik weg. Het wordt nu alleen de pagina die je ziet in mijn eerste schets. Die is ook meer advanced.
+
 
   ### Bevinding 5:
   Jeremy gaf aan dat ik misschien deze pagina in het klein zou kunnen weergeven op de andere pagina, sinds deze wegvalt. Zodat je weet waar de Nathan Drake zich bevind in de timeline.
