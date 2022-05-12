@@ -71,7 +71,7 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 4:
-  <img src="readme-images/ontwerp1.png.jpg" width="375px" alt="eerste versie/ontwerp">
+  <img src="readme-images/ontwerp1.png" width="375px" alt="eerste versie/ontwerp">
   Sanne had aangegeven dat er maar 1 pagina mag zijn. Ik zou een popup kunnen gebruiken voor de 'tweede' pagina, maar dat leek mij niet heel handig, want ik wil dat de popup dan een soort pagina wordt en ik heb het idee dat dat veel te moeilijk zou worden.
 
   #### oplossing:
