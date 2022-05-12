@@ -1,43 +1,123 @@
-/* CSS Document */
-body {
-  background-image: url('../images/wereldkaart.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
+/* Fonts */
+@font-face {
+    font-family: 'nathanmedium';
+    src: url('../fonts/nathan-exbp-webfont.woff2') format('woff2'),
+         url('../fonts/nathan-exbp-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
+@font-face {
+    font-family: 'base_02regular';
+    src: url('../fonts/base_02-webfont.woff2') format('woff2'),
+         url('../fonts/base_02-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'fontin_sansregular';
+    src: url('../fonts/fontin_sans_r_45b-webfont.woff2') format('woff2'),
+         url('../fonts/fontin_sans_r_45b-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'fontin_sansbold';
+    src: url('../fonts/fontin_sans_b_45b-webfont.woff2') format('woff2'),
+         url('../fonts/fontin_sans_b_45b-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/* CSS Document */
+/* jouw CSS vanaf hier */
+
+/* Simpele CSS Remedy - naar een idee van Jen Simmons van Sanne*/
+/* https://github.com/jensimmons/cssremedy */
 *, *::after, *::before {
   box-sizing:border-box;
 }
 
-html, body {
-  height:100%;
-  margin:0;
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+  --color-main:#fff;
+  --color-background:#ccc;
 }
 
-button:not([disabled]) {
-  cursor:pointer;
+
+/*************/
+/* MIJN CODE */
+/*************/
+body {
+  font-family: 'base_02regular';
+
+	/* mijn code hier */
+	height:100vh;
+	margin:0;
 }
 
-/* jouw CSS vanaf hier */
+ol {
+	/* mijn code hier */
+	margin:0;
+	padding:0;
+	list-style:none;
 
-h1 {
-  color:crimson;
+	display:flex;
+	height:100vh;
 }
 
-.locationButton{
-  transition: all 0.3s;
-  position: absolute;
-  color: red;
-  font-size: 60px;
-  text-shadow: 0px 0px 1px crimson
-}
-
-.locationButton:after{
+li {
+	display:grid;
+	place-items:center;
+	flex-grow:1;
+	flex-basis:0%;
+	transition:1s;
+  font-size: 40px;
+  text-align:center;
   display: inline-block;
-  content: "\00d7"; /* character code voor een kruisje*/
+  box-sizing: border-box;
+  padding-top: 2em;
 }
 
-.locationButton:hover{
-  transform: scale(1.3);
+li:hover {
+	flex-basis:60%;
 }
+
+li:nth-of-type(1) { background-image: url(../images/1988Cover.png);
+background-repeat: no-repeat;
+	background-size: cover;
+ }
+
+li:nth-of-type(2) { background-image: url(../images/);
+background-repeat: no-repeat;
+	background-size: cover; }
+
+li:nth-of-type(3) { background-image: url(../images/2001Cover.png);
+background-repeat: no-repeat;
+	background-size: cover; }
+
+li:nth-of-type(4) { background-image: url(../images/2007Cover.jpg);
+background-repeat: no-repeat;
+	background-size: cover; }
+
+li:nth-of-type(5) { background-image: url(../images/2009Cover.jpg);
+background-repeat: no-repeat;
+	background-size: cover; }
+
+li:nth-of-type(6) { background-image: url(../images/2011Cover.png);
+background-repeat: no-repeat;
+	background-size: cover; }
+
+li:nth-of-type(7) { background-image: url(../images/2016Cover.png);
+background-repeat: no-repeat;
+	background-size: cover; }

@@ -178,8 +178,15 @@ Mijn startniveau is: blauw
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
+Afbeeldingen
 1. Favicon - https://strategywiki.org/wiki/Uncharted:_Drake%27s_Fortune/Trophies
 2. bron 2
 3. ...
+
+
+Code
+1.
+2.
+3.
 
 </details>
