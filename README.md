@@ -36,6 +36,7 @@ Mijn startniveau is: blauw
   - Parallax scrolling
   - Grid/Flex
   - Semantisch correctheid
+  - Nette code
 
 </details>
 
