@@ -50,6 +50,13 @@
 /*************/
 /* MIJN CODE */
 /*************/
+h1 {
+  font-weight: normal;
+  margin: 0em;
+  color: #fefefe;
+  text-shadow: 2px 3px 7px rgba(19,19,19,0.8);
+}
+
 body {
   font-family: 'base_02regular';
   /* mijn code hier */
@@ -125,19 +132,20 @@ main>ol>li:nth-of-type(7) {
   background-size: cover;
 }
 
-li article ul li:first-of-type {
+li article section:first-of-type p:first-of-type {
   padding: 0.2em 1em;
   font-family: "nathanmedium";
   display: inline-block;
   font-size: 1em;
 }
-li article ul li {
+
+li article section:first-of-type p {
   font-family: "nathanmedium";
   font-size: 0.8em;
 
 }
 
-li article ul {
+li article section:first-of-type {
   opacity: 0;
   overflow: hidden;
   white-space: nowrap;
@@ -147,14 +155,47 @@ li article ul {
   background-color: white;
   position: absolute;
   font-size: 0.8em;
-  transform: rotate(-10deg) scale(0.7) translate(-84px, 10px);
+  transform: rotate(-10deg) scale(0.6) translate(-84px, 10px);
   border-radius: 0.15em;
 }
 
-li:hover article ul {
+li article section:first-of-type p{
+  margin: 0em;
+}
+
+li:hover article section:first-of-type {
   animation-name: drakeFileThrow;
   animation-duration: 1s;
   animation-fill-mode: forwards;
+}
+
+li:hover article section:nth-of-type(2) {
+  animation-name: descriptionFade;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
+li article section:nth-of-type(2) {
+  color: white;
+  text-align: left;
+  font-size: 0.4em;
+  position: absolute;
+  bottom: 1.5em;
+  font-family: 'fontin_sansregular';
+  width: 30%;
+  margin: 0em 1.5em;
+  opacity: 0;
+  z-index: 999;
+}
+
+a, a:visited {
+  color: white;
+  text-decoration: none;
+  font-family: 'fontin_sansbold';
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .drakeImage {
@@ -199,5 +240,19 @@ li:hover .drakeImage {
   100% {
   transform: rotate(-10deg) scale(0.7) translate(-84px, 10px);
   opacity: 1;
+  }
+}
+
+@keyframes descriptionFade {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
   }
 }
