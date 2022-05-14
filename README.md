@@ -181,8 +181,13 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 Afbeeldingen
 1. Favicon - https://strategywiki.org/wiki/Uncharted:_Drake%27s_Fortune/Trophies
-2. bron 2
-3. ...
+2. 1988 achtergrond afbeelding - https://www.artstation.com/artwork/gGdzm van Rogelio Olguin
+3. 1991 achtergrond afbeelding - https://www.artstation.com/artwork/nxb06 van Brian Recktenwald
+4. 2001 achtergrond afbeelding - https://www.artstation.com/artwork/dGRbJ van Simon Craghead
+5. 2007 achtergrond afbeelding - https://www.artstation.com/artwork/xz34PY van Christophe Desse
+6. 2009 achtergrond afbeelding - https://www.artstation.com/artwork/5BXYXE van Bibhab Raj Joshi
+7. 2011 achtergrond afbeelding - https://www.artstation.com/artwork/lyGR5 van Adrian Castro
+7. 2016 achtergrond afbeelding - https://www.artstation.com/artwork/uncharted-4-a-thief-s-end-madagascar van Anthony Vaccaro
 
 
 Code
