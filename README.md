@@ -33,7 +33,6 @@ Mijn startniveau is: blauw
 
   ### Je ambitie:
   Aan deze technieken/punten wil ik werken:
-  - Parallax scrolling
   - Grid/Flex
   - Semantisch correctheid
   - Nette code
@@ -177,21 +176,30 @@ Mijn startniveau is: blauw
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
 Afbeeldingen
-1. Favicon - https://strategywiki.org/wiki/Uncharted:_Drake%27s_Fortune/Trophies
+1. Favicon - https://strategywiki.org/wiki/Uncharted:_Drake%27s_Fortune/Trophies van ?
 2. 1988 achtergrond afbeelding - https://www.artstation.com/artwork/gGdzm van Rogelio Olguin
 3. 1991 achtergrond afbeelding - https://www.artstation.com/artwork/nxb06 van Brian Recktenwald
 4. 2001 achtergrond afbeelding - https://www.artstation.com/artwork/dGRbJ van Simon Craghead
 5. 2007 achtergrond afbeelding - https://www.artstation.com/artwork/xz34PY van Christophe Desse
 6. 2009 achtergrond afbeelding - https://www.artstation.com/artwork/5BXYXE van Bibhab Raj Joshi
 7. 2011 achtergrond afbeelding - https://www.artstation.com/artwork/lyGR5 van Adrian Castro
-7. 2016 achtergrond afbeelding - https://www.artstation.com/artwork/uncharted-4-a-thief-s-end-madagascar van Anthony Vaccaro
+8. 2016 achtergrond afbeelding - https://www.artstation.com/artwork/uncharted-4-a-thief-s-end-madagascar van Anthony Vaccaro
+9. 1988 Nathan Drake afbeelding - https://www.artstation.com/artwork/eVBEY van Frank Tzeng
+10. 1991 Nathan Drake afbeelding - https://mygameslounge.com/reviews/uncharted-3-drakes-deception-hd-review/ van David Game
+11. 2001 Nathan Drake afbeelding - https://unchartedsterritory.tumblr.com/post/152501435322/nathan-drake-in-uncharted-4-chapter-2-infernal van thenerdychronicles
+12. 2007 Nathan Drake afbeelding - https://pngset.com/download-free-png-pkrvl van ?
+13. 2009 Nathan Drake afbeelding - https://www.pngwing.com/en/free-png-cjhee van ?
+14. 2011 Nathan Drake afbeelding - https://www.pngwing.com/en/free-png-bxbvt van ?
+15. 2016 Nathan Drake afbeelding - http://toolsandtoys.net/reviews/a-review-of-uncharted-4-a-thiefs-end/ van Alvaro Serrano
+16. Uncharted 1 logo - https://logodix.com/logos/1610547 van ?
+17. Uncharted 2 logo - https://www.pngplay.com/nl/image/259130 van Arsh
+18. Uncharted 3 logo - https://www.deviantart.com/jaz350z/art/Uncharted-3-Logo-Render-189072115 van jaz350z
+19. Uncharted 4 logo - https://www.pngplay.com/nl/image/166871 van Arsh
 
 
 Code
-1.
+1. Horizontale tijdlijn flex - https://codepen.io/shooft/pen/XWZKdgM van Sanne naar een idee van Jen Simmons
 2.
 3.
 
