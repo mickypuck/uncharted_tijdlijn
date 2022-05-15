@@ -91,7 +91,7 @@ main>ol>li:hover {
 }
 
 main>ol>li:nth-of-type(1) {
-  background-image: url(../images/1988Covertemp.png);
+  background-image: url(../images/1988Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
