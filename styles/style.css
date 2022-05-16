@@ -232,14 +232,13 @@ a:hover:after {
   transform-origin: bottom left;
 }
 
+
+
+
+
 /*************/
 /* ANIMATION */
 /*************/
-
-
-
-
-
 @keyframes drakeDelayFade {
   0% {
     opacity: 0;
