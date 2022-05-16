@@ -190,15 +190,6 @@ li article section:nth-of-type(2) {
   z-index: 999;
 }
 
-a, a:visited {
-  color: white;
-  text-decoration: none;
-  font-family: 'fontin_sansbold';
-}
-
-a:hover {
-  text-decoration: underline;
-}
 
 .drakeImage {
   pointer-events: none;
@@ -213,6 +204,32 @@ li:hover .drakeImage {
   animation-name: drakeDelayFade;
   animation-duration: 2s;
   animation-fill-mode: forwards;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: white;
+  font-family: 'fontin_sansbold';
+  display: inline-block;
+  position: relative;
+}
+
+a:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 /*************/

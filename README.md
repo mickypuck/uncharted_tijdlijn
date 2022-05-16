@@ -189,7 +189,7 @@ Afbeeldingen
 10. 1991 Nathan Drake afbeelding - https://mygameslounge.com/reviews/uncharted-3-drakes-deception-hd-review/ van David Game
 11. 2001 Nathan Drake afbeelding - https://unchartedsterritory.tumblr.com/post/152501435322/nathan-drake-in-uncharted-4-chapter-2-infernal van thenerdychronicles
 12. 2007 Nathan Drake afbeelding - https://pngset.com/download-free-png-pkrvl van ?
-13. 2009 Nathan Drake afbeelding - https://www.pngwing.com/en/free-png-cjhee van ?
+13. 2009 Nathan Drake afbeelding - https://www.leatherjacketblack.com/product/nathan-drake-uncharted-2-jacket/ van ?
 14. 2011 Nathan Drake afbeelding - https://www.pngwing.com/en/free-png-bxbvt van ?
 15. 2016 Nathan Drake afbeelding - http://toolsandtoys.net/reviews/a-review-of-uncharted-4-a-thiefs-end/ van Alvaro Serrano
 16. Uncharted 1 logo - https://logodix.com/logos/1610547 van ?
