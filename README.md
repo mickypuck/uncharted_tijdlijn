@@ -200,7 +200,7 @@ Afbeeldingen
 
 Code
 1. Horizontale tijdlijn flex - https://codepen.io/shooft/pen/XWZKdgM van Sanne naar een idee van Jen Simmons
-2.
+2. Hover underline animation - https://www.30secondsofcode.org/css/s/hover-underline-animation van Trinityyi
 3.
 
 </details>

@@ -36,25 +36,7 @@
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
-:root {
-  --color-main: #fff;
-  --color-background: #ccc;
-}
-
-/* Simpele CSS Remedy -  van Sanne naar een idee van Jen Simmons*/
-/* https://github.com/jensimmons/cssremedy */
-*, *::after, *::before {
-  box-sizing: border-box;
-}
-
-
-
-
-
-/*************/
-/* MIJN CODE */
-/*************/
-h1 {
+:root h1 {
   font-weight: normal;
   margin: 0em;
   color: #fefefe;
@@ -65,6 +47,12 @@ body {
   font-family: 'base_02regular';
   height: 100vh;
   margin: 0;
+}
+
+/* Simpele CSS Remedy -  van Sanne naar een idee van Jen Simmons*/
+/* https://codepen.io/shooft/pen/XWZKdgM & https://github.com/jensimmons/cssremedy */
+*, *::after, *::before {
+  box-sizing: border-box;
 }
 
 main>ol {
@@ -190,7 +178,6 @@ li article section:nth-of-type(2) {
   z-index: 999;
 }
 
-
 .drakeImage {
   pointer-events: none;
   transition: padding-left 1s, opacity 0.3s;
@@ -214,6 +201,16 @@ a, a:visited {
   position: relative;
 }
 
+a:focus {
+  background-color: white;
+}
+
+a:active {
+  color: #16558f;
+}
+
+/* Hover underline animation -  van Trinityyi */
+/* https://www.30secondsofcode.org/css/s/hover-underline-animation */
 a:after {
   content: '';
   position: absolute;
@@ -232,20 +229,11 @@ a:hover:after {
   transform-origin: bottom left;
 }
 
-
-
-
-
 /*************/
 /* ANIMATION */
 /*************/
 @keyframes drakeDelayFade {
-  0% {
-    opacity: 0;
-    padding-left: 6em;
-  }
-
-  50% {
+  0%, 50% {
     opacity: 0;
     padding-left: 6em;
   }
