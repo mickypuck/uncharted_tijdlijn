@@ -16,7 +16,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Micky Puck van Dartel
 
 #### Je startniveau:
-Mijn startniveau is: blauw
+Mijn startniveau is: blauw, volgens Sanne rood.
 
 
 
@@ -36,6 +36,7 @@ Mijn startniveau is: blauw
   - Grid/Flex
   - Semantisch correctheid
   - Nette code
+  - Custom properties
 
 </details>
 
@@ -48,41 +49,49 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen</summary>
 
   ### Bevinding 1:
-  <img src="readme-images/schets1.jpg" width="375px" alt="eerste versie/schets">
+  <img src="readme-images/schets1.jpg" width="375px" alt="eerste schets">
   Jeremy leek het handig om ook de game te vermelden waar de Nathan Drake in voor komt en het jaartal.
 
   #### oplossing:
-  Ik heb dit nog niet gecodeerd, maar ga ik zeker vermelden.
+  Ik heb dit nog niet gecodeerd, maar ga ik zeker proberen.
 
+  #### update:
+  Ik heb het jaartal en de welke game het is op de cover gezet van elk jaartal, zodat je het meteen duidelijk ziet.
 
   ### Bevinding 2:
   Een parallax effect zou heel cool zijn om hier voor te gebruiken. Ook door de timeline rechts op de pagina.
 
   #### oplossing:
-  Ik heb dit nog niet gecodeerd, maar ga ik zeker vermelden. Een parallax was al mijn idee, maar Jeremy had ook aangegeven dat ik dan de timeline rechts ook mee zou kunnen bewegen.
+  Ik heb dit nog niet gecodeerd, maar ga ik zeker proberen. Een parallax was al mijn idee, maar Jeremy had ook aangegeven dat ik dan de timeline rechts ook mee zou kunnen bewegen.
 
+  #### update:
+  Dit idee heb ik niet meer toegepast, omdat ik mijn idee had veranderd. We mogen maar 1 pagina gebruiken en dit idee had is samen bedacht met nog een andere pagina waarin het goed zou werken. Toen Sanne de horizontale 'tijdlijn' liet zien, kreeg ik opeens ideeën om daar iets mee toen en dat heb ik dus uiteindelijk gedaan.
 
   ### Bevinding 3:
-  <img src="readme-images/schets2.jpg" width="375px" alt="tweede versie/schets">
+  <img src="readme-images/schets2.jpg" width="375px" alt="tweede schets">
   Omdat ik best weinig zou css'en en dat wel een doel is, zei Jeremy dat ik het kompas in css zou kunnen maken
 
   #### oplossing:
   Ik heb dit nog niet gecodeerd, maar ga ik zeker proberen te doen!
 
+  #### update:
+  Ik heb uiteindelijk geen kompas in mijn ontwerp gedaan. De wereldkaart viel weg en een kompas was überhaupt een extraatje.
 
   ### Bevinding 4:
-  <img src="readme-images/ontwerp1.png" width="375px" alt="eerste eersteontwerp/ontwerp">
+  <img src="readme-images/ontwerp1.png" width="375px" alt="eerste eerste ontwerp">
   Sanne had aangegeven dat er maar 1 pagina mag zijn. Ik zou een popup kunnen gebruiken voor de 'tweede' pagina, maar dat leek mij niet heel handig, want ik wil dat de popup dan een soort pagina wordt en ik heb het idee dat dat veel te moeilijk zou worden.
 
   #### oplossing:
   Deze pagina haal ik weg. Het wordt nu alleen de pagina die je ziet in mijn eerste schets. Die is ook meer advanced.
 
-
   ### Bevinding 5:
   Jeremy gaf aan dat ik misschien deze pagina in het klein zou kunnen weergeven op de andere pagina, sinds deze wegvalt. Zodat je weet waar de Nathan Drake zich bevind in de timeline.
 
   #### oplossing:
-  Ik heb dit nog niet gecodeerd, maar ga ik zeker vermelden.
+  Ik heb dit nog niet gecodeerd, maar ga ik zeker proberen.
+
+  #### update:
+  Ik heb de wereldkaart uiteindelijk uit mijn ontwerp gelaten, omdat het dan veel te vol werd op de website. Ook vond ik het niet meer veel toevoegen voor de tijdlijn, omdat hij veel reist.
 
 </details>
 
@@ -95,23 +104,56 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-  <img src="readme-images/responsiveness.png" width="375px" alt="eerste versie/schets">
+  <img src="readme-images/responsiveness.png" width="375px" alt="responsiveness ontwerp">
   De website is nog niet helemaal responsive. De jaartallen blijven erg groot en bij een erg klein scherm overlappen de onderdelen raar over elkaar. - Zara
 
   #### oplossing:
-  Ik ga de jaartallen waarschijnlijk met een media querie scalen. En ik ga mij niet heel erg focussen op kleinere schermen. Ik maak de website een beetje responsive, ook door tijd tekort.
+  Ik ga de jaartallen waarschijnlijk met een media query responsive maken. En ik ga mij niet heel erg focussen op kleinere schermen. Ik maak de website een beetje responsive, ook door tijd tekort.
 
+  #### update:
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  <img src="readme-images/contrast1.png" width="375px" alt="contrast donkere achtergrond">
+  <img src="readme-images/contrast2.png" width="375px" alt="contrast lichtere achtergrond">
+  Voor de teksten moet ik letten op het contrast. - Zara
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik heb het er ook met Sanne over gehad en ik ga nu een background toevoegen, voor beter contrast. Uncharted heeft 4 games met 4 verschillende menu stijlen. Ik ga die nu namaken en toevoegen aan de achtergrond van de tekst.
 
-
+  #### update:
 
   ### Bevinding 3:
-  ...
+  Nog meer commentaar in de code weergeven. - Zara
+
+  #### oplossing:
+  Hier was ik nog niet aan toegekomen. Dit wilde ik zeker nog toepassen, niet alleen voor de voorwaarden maar ook voor mijzelf.
+
+  ### Bevinding 4:
+  Custom properties gebruiken. - Zara
+
+  #### oplossing:
+  Hier was ik nog niet aan toegekomen. Omdat het een voorwaarde is, moet ik dit nog even doen!
+
+  ### Bevinding 5:
+  Ik zou ook nog de game vermelden welke Nathan Drake in welke game voorkomt. - Zara
+
+  #### oplossing:
+  Ik heb het jaartal en de welke game het is op de cover gezet van elk jaartal, zodat je het meteen duidelijk ziet.
+
+  ### Bevinding 6:
+  Voor Sanne hoeft het niet perse, maar het is wel handig om nog voor een header te zorgen. Dit vind Google ook erg fijn.
+
+  #### oplossing:
+  Omdat de tijdlijn fullscreen is, vind ik het erg lelijk om nog ergens een header toe te voegen. Ik heb dit opgelost om de header na een paar seconde te laten verdwijnen nadat je op de website komt, zodat je wel weet waar de website over gaat.
+
+  ### Bevinding 7:
+  <img src="readme-images/mapjevoorbeeld1.png" width="375px" alt="mapje 1988">
+  <img src="readme-images/mapjevoorbeeld2.png" width="375px" alt="mapje 1991">
+  De mapjes met de tekst die verschijnen zijn misschien een beetje te groot. - Zara
+
+  #### oplossing:
+  Ik was al van plan het mapje wat kleiner te maken. De andere mapjes worden vervangen door andere voorwerpen.
+
 
 </details>
 
@@ -127,7 +169,6 @@ Mijn startniveau is: blauw
 
   #### oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
 
 
   ### Bevinding 2:
