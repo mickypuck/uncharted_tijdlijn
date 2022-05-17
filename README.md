@@ -196,6 +196,12 @@ Afbeeldingen
 17. Uncharted 2 logo - https://www.pngplay.com/nl/image/259130 van Arsh
 18. Uncharted 3 logo - https://www.deviantart.com/jaz350z/art/Uncharted-3-Logo-Render-189072115 van jaz350z
 19. Uncharted 4 logo - https://www.pngplay.com/nl/image/166871 van Arsh
+20. Uncharted logo header - https://uncharted.fandom.com/wiki/Uncharted_series van ?
+21. Relic 1 (ring) - https://www.pricepulse.app/sir-francis-drake-ring-necklace-from-uncharted-3-c_us_12052217 van ?
+22. Relic 2 (dagger) - https://www.artstation.com/artwork/wGrnO van Josh Pears
+23. Relic 3 (coin) - https://www.artstation.com/artwork/QLlyB van Bradford Smith
+24. Relic 4 (compass) - https://www.artstation.com/artwork/0XKkLY van Khairizal Anwar
+
 
 
 Code
