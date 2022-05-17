@@ -63,7 +63,7 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 3:
-  <img src="readme-images/schets2.jpg" width="375px" alt="eerste versie/schets">
+  <img src="readme-images/schets2.jpg" width="375px" alt="tweede versie/schets">
   Omdat ik best weinig zou css'en en dat wel een doel is, zei Jeremy dat ik het kompas in css zou kunnen maken
 
   #### oplossing:
@@ -71,7 +71,7 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 4:
-  <img src="readme-images/ontwerp1.png" width="375px" alt="eerste versie/ontwerp">
+  <img src="readme-images/ontwerp1.png" width="375px" alt="eerste eersteontwerp/ontwerp">
   Sanne had aangegeven dat er maar 1 pagina mag zijn. Ik zou een popup kunnen gebruiken voor de 'tweede' pagina, maar dat leek mij niet heel handig, want ik wil dat de popup dan een soort pagina wordt en ik heb het idee dat dat veel te moeilijk zou worden.
 
   #### oplossing:
@@ -95,11 +95,11 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  <img src="readme-images/responsiveness.png" width="375px" alt="eerste versie/schets">
+  De website is nog niet helemaal responsive. De jaartallen blijven erg groot en bij een erg klein scherm overlappen de onderdelen raar over elkaar. - Zara
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Ik ga de jaartallen waarschijnlijk met een media querie scalen. En ik ga mij niet heel erg focussen op kleinere schermen. Ik maak de website een beetje responsive, ook door tijd tekort.
 
 
   ### Bevinding 2:
