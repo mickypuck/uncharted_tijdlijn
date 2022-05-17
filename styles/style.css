@@ -55,7 +55,7 @@ header{
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: 'fontin_sansbold';
+  font-family: 'fontin_sansbold', sans-serif;
   font-size: 1.6em;
   animation-name: titleScreenFade;
   animation-delay: 3s;
@@ -69,7 +69,7 @@ header img {
 }
 
 body {
-  font-family: 'base_02regular';
+  font-family: 'base_02regular', sans-serif;
   height: 100vh;
   margin: 0;
 }
@@ -149,13 +149,13 @@ main>ol>li:nth-of-type(7) {
 
 li article section:first-of-type p:first-of-type {
   padding: 0.2em 1em;
-  font-family: "nathanmedium";
+  font-family: "nathanmedium", sans-serif;
   display: inline-block;
   font-size: 1em;
 }
 
 li article section:first-of-type p {
-  font-family: "nathanmedium";
+  font-family: "nathanmedium", sans-serif;
   font-size: 0.8em;
 }
 
@@ -196,7 +196,7 @@ li article section:nth-of-type(2) {
   font-size: 0.4em;
   position: absolute;
   bottom: 1.5em;
-  font-family: 'fontin_sansregular';
+  font-family: 'fontin_sansregular', sans-serif;
   width: 30%;
   margin: 0em 1.5em;
   opacity: 0;
@@ -221,7 +221,7 @@ li:hover .drakeImage {
 a, a:visited {
   text-decoration: none;
   color: white;
-  font-family: 'fontin_sansbold';
+  font-family: 'fontin_sansbold', sans-serif;
   display: inline-block;
   position: relative;
 }
