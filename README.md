@@ -249,6 +249,9 @@ Afbeeldingen
 29. Postcard - https://hdclipartall.com/vintage-clip-art-darling-snowman-postcard-finland-postcard-clipart-1600_1061-081612.html van ?
 30. Wedding picture - https://twitter.com/bestofvidgames/status/1333083319374901251?lang=zh-Hant van bestofvidgames
 31. Card holder mockup - https://www.divineworks.biz/free-card-holder-mockup/ van divineworks
+32. Coffee stain - https://cosplayandcoffee.com/cropped-coffee-stain-png/ van Cosplay and Coffee
+33. Paperclip - https://www.clipartmax.com/middle/m2i8N4i8H7i8H7m2_paperclip-png-download-paper-clip-png-transparent/ van ?
+34. Old paper texture - https://wallpaperaccess.com/old-paper - van ?
 
 
 
