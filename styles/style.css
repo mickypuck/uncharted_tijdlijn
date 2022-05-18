@@ -60,7 +60,7 @@ header {
   font-family: 'fontin_sansbold', sans-serif;
   font-size: 1.6em;
   animation-name: titleScreenFade;
-  animation-delay: 0s;
+  animation-delay: 3s;
   animation-duration: 2s;
   animation-fill-mode: forwards;
 }
