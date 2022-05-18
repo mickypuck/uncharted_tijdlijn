@@ -148,7 +148,7 @@ li:nth-of-type(2) article section:first-of-type {
 }
 
 li:nth-of-type(2) article section:first-of-type img {
-  max-width: 150%;
+  max-width: %;
   position: absolute;
   left: -2em;
   top: -3em;
@@ -339,7 +339,7 @@ li article section:nth-of-type(2) {
   position: absolute;
   bottom: 0;
   transition: opacity 0.3s;
-  width: 4em;
+  width: 6em;
 }
 
 li:hover .logo {
