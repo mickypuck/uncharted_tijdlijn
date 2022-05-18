@@ -106,56 +106,42 @@ main>ol>li:hover {
   flex-basis: 40%;
 }
 
-/* bron: 1988 background image -  van Rogelio Olguin */
-/* https://www.artstation.com/artwork/gGdzm */
 main>ol>li:nth-of-type(1) {
   background-image: url(../images/1988Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* bron: 1991 background image -  van Brian Recktenwald */
-/* https://www.artstation.com/artwork/nxb06 */
 main>ol>li:nth-of-type(2) {
   background-image: url(../images/1991Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* bron: 2001 background image -  van Simon Craghead */
-/* https://www.artstation.com/artwork/dGRbJ */
 main>ol>li:nth-of-type(3) {
   background-image: url(../images/2001Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* bron: 2007 background image -  van Christophe Desse */
-/* https://www.artstation.com/artwork/xz34PY */
 main>ol>li:nth-of-type(4) {
   background-image: url(../images/2007Cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* bron: 2009 background image -  van Bibhab Raj Joshi */
-/* https://www.artstation.com/artwork/5BXYXE */
 main>ol>li:nth-of-type(5) {
   background-image: url(../images/2009Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* bron: 2011 background image -  van Adrian Castro */
-/* https://www.artstation.com/artwork/lyGR5 */
 main>ol>li:nth-of-type(6) {
   background-image: url(../images/2011Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* bron: 2016 background image -  van Anthony Vaccaro */
-/* https://www.artstation.com/artwork/uncharted-4-a-thief-s-end-madagascar */
 main>ol>li:nth-of-type(7) {
   background-image: url(../images/2016Cover.png);
   background-repeat: no-repeat;
@@ -271,12 +257,22 @@ li:nth-of-type(5) article section:first-of-type img {
   pointer-events: none;
 }
 
+li:nth-of-type(6) article section:first-of-type {
+  border: none;
+  background-color: transparent;
+}
+
 li:nth-of-type(6) article section:first-of-type img {
   max-width: 178%;
   position: absolute;
   left: -3em;
   top: -4em;
   z-index: -1;
+}
+
+li:nth-of-type(7) article section:first-of-type {
+  border: none;
+  background-color: transparent;
 }
 
 li:nth-of-type(7) article section:first-of-type img {
