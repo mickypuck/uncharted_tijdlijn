@@ -43,8 +43,10 @@
   text-shadow: 2px 3px 7px rgba(19, 19, 19, 0.8);
 }
 
-
-header{
+/**********/
+/* HEADER */
+/**********/
+header {
   position: absolute;
   z-index: 99999;
   height: 100vh;
@@ -73,7 +75,7 @@ body {
   margin: 0;
 }
 
-/* Simpele CSS Remedy -  van Sanne naar een idee van Jen Simmons*/
+/* bron: Simpele CSS Remedy -  van Sanne naar een idee van Jen Simmons*/
 /* https://codepen.io/shooft/pen/XWZKdgM & https://github.com/jensimmons/cssremedy */
 *, *::after, *::before {
   box-sizing: border-box;
@@ -104,42 +106,56 @@ main>ol>li:hover {
   flex-basis: 40%;
 }
 
+/* bron: 1988 background image -  van Rogelio Olguin */
+/* https://www.artstation.com/artwork/gGdzm */
 main>ol>li:nth-of-type(1) {
   background-image: url(../images/1988Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+/* bron: 1991 background image -  van Brian Recktenwald */
+/* https://www.artstation.com/artwork/nxb06 */
 main>ol>li:nth-of-type(2) {
   background-image: url(../images/1991Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+/* bron: 2001 background image -  van Simon Craghead */
+/* https://www.artstation.com/artwork/dGRbJ */
 main>ol>li:nth-of-type(3) {
   background-image: url(../images/2001Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+/* bron: 2007 background image -  van Christophe Desse */
+/* https://www.artstation.com/artwork/xz34PY */
 main>ol>li:nth-of-type(4) {
   background-image: url(../images/2007Cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+/* bron: 2009 background image -  van Bibhab Raj Joshi */
+/* https://www.artstation.com/artwork/5BXYXE */
 main>ol>li:nth-of-type(5) {
   background-image: url(../images/2009Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+/* bron: 2011 background image -  van Adrian Castro */
+/* https://www.artstation.com/artwork/lyGR5 */
 main>ol>li:nth-of-type(6) {
   background-image: url(../images/2011Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+/* bron: 2016 background image -  van Anthony Vaccaro */
+/* https://www.artstation.com/artwork/uncharted-4-a-thief-s-end-madagascar */
 main>ol>li:nth-of-type(7) {
   background-image: url(../images/2016Cover.png);
   background-repeat: no-repeat;
@@ -160,7 +176,6 @@ li article section:first-of-type p {
 
 li article section:first-of-type {
   opacity: 0;
-  /*overflow: hidden;*/
   white-space: nowrap;
   padding: 0.2em;
   border: solid beige;
@@ -174,8 +189,8 @@ li article section:first-of-type {
 
 li:nth-of-type(1) article section:first-of-type {
   border: none;
-  top:12em;
-  left:5em;
+  top: 12em;
+  left: 5em;
   font-size: 0.6em;
   background-color: transparent;
   filter: brightness(0.9);
@@ -187,12 +202,11 @@ li:nth-of-type(1) article section:first-of-type img {
   left: -3em;
   top: -4em;
   z-index: -1;
-
 }
 
 li:nth-of-type(2) article section:first-of-type {
   border: none;
-  top:11em;
+  top: 11em;
   background-color: transparent;
   filter: brightness(0.9);
 }
@@ -204,16 +218,15 @@ li:nth-of-type(2) article section:first-of-type img {
   top: -3em;
   z-index: -1;
 }
+
 li:nth-of-type(3) article section:first-of-type {
   border: none;
-  top:12em;
-  left:15em;
+  top: 12em;
+  left: 15em;
   font-size: 0.6em;
   background-color: transparent;
   filter: brightness(0.9);
 }
-
-
 
 li:nth-of-type(3) article section:first-of-type img {
   max-width: 178%;
@@ -221,7 +234,6 @@ li:nth-of-type(3) article section:first-of-type img {
   left: -3.5em;
   top: -4.2em;
   z-index: -1;
-
 }
 
 li:nth-of-type(3) article section:first-of-type img.mugshot {
@@ -239,6 +251,7 @@ li:nth-of-type(4) article section:first-of-type {
   transform: rotate(-10deg) scale(0.5) translate(-84px, 10px);
   filter: brightness(0.9);
 }
+
 li:nth-of-type(5) article section:first-of-type {
   top: 17em;
   border: none;
@@ -258,12 +271,27 @@ li:nth-of-type(5) article section:first-of-type img {
   pointer-events: none;
 }
 
+li:nth-of-type(6) article section:first-of-type img {
+  max-width: 178%;
+  position: absolute;
+  left: -3em;
+  top: -4em;
+  z-index: -1;
+}
+
+li:nth-of-type(7) article section:first-of-type img {
+  max-width: 178%;
+  position: absolute;
+  left: -3em;
+  top: -4em;
+  z-index: -1;
+}
 
 li article section:first-of-type ::after {
-width: 200px;
-height: 200px;
-background-color: red;
-display: block;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  display: block;
 }
 
 li article section:first-of-type p {
@@ -295,13 +323,12 @@ li article section:nth-of-type(2) {
   margin: 0em 1.5em;
   opacity: 0;
   z-index: 999;
-  background-color: rgb(68,44,18, 0.8);
+  background-color: rgb(68, 44, 18, 0.8);
   padding: 1em;
-  background-image: url('../images/oldpapertexture65.png');
+  background-image: url('../images/oldpapertexture.png');
 }
 
-
-.logo{
+.logo {
   display: block;
   position: absolute;
   bottom: 0;
@@ -309,7 +336,7 @@ li article section:nth-of-type(2) {
   width: 4em;
 }
 
- li:hover .logo{
+li:hover .logo {
   opacity: 0;
   pointer-events: none;
 }
@@ -346,7 +373,7 @@ a:active {
   color: #16558f;
 }
 
-/* Hover underline animation -  van Trinityyi */
+/* bron: Hover underline animation -  van Trinityyi */
 /* https://www.30secondsofcode.org/css/s/hover-underline-animation */
 a:after {
   content: '';
@@ -410,13 +437,14 @@ a:hover:after {
 @keyframes titleScreenFade {
   0% {
     opacity: 1;
-      height: 100vh;
+    height: 100vh;
   }
 
   99% {
     opacity: 0;
     height: 100vh;
   }
+
   100% {
     opacity: 0;
     height: 0px;
