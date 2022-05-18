@@ -263,7 +263,7 @@ li:nth-of-type(6) article section:first-of-type {
 }
 
 li:nth-of-type(6) article section:first-of-type img {
-  max-width: 178%;
+  max-width: 120%;
   position: absolute;
   left: -3em;
   top: -4em;
@@ -276,7 +276,7 @@ li:nth-of-type(7) article section:first-of-type {
 }
 
 li:nth-of-type(7) article section:first-of-type img {
-  max-width: 178%;
+  max-width: 130%;
   position: absolute;
   left: -3em;
   top: -4em;
