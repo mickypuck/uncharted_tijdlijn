@@ -33,6 +33,10 @@
   font-style: normal;
 }
 
+
+
+
+
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -49,6 +53,10 @@ h1 {
   color: var(--text-color);
   text-shadow: 2px 3px 7px rgba(19, 19, 19, 0.8);
 }
+
+
+
+
 
 /**********/
 /* HEADER */
@@ -81,20 +89,26 @@ header img {
   width: 80vw;
 }
 
+/* Standaard vormgeving voor de website */
 body {
   font-family: 'base_02regular', sans-serif;
   height: 100vh;
   margin: 0;
 }
 
+
+
+
+
 /*****************/
 /* FLEX TIJDLIJN */
 /*****************/
-/* bron: Simpele CSS Remedy -  van Sanne naar een idee van Jen Simmons*/
+/* bron: Simpele CSS Remedy -  van Sanne naar een idee van Jen Simmons */
 /* https://codepen.io/shooft/pen/XWZKdgM & https://github.com/jensimmons/cssremedy */
 *, *::after, *::before {
   box-sizing: border-box;
 }
+
 
 main>ol {
   margin: 0;
@@ -121,7 +135,7 @@ main>ol>li:hover,main>ol>li:focus-within {
   flex-basis: 40%;
 }
 
-
+/* Dit gaat over de eerste regel van de tekst op het voorwerp met zijn naam erop */
 li article section:first-of-type p:first-of-type {
   padding: 0.2em 1em;
   font-family: "nathanmedium", sans-serif;
@@ -129,12 +143,18 @@ li article section:first-of-type p:first-of-type {
   font-size: 1em;
 }
 
+/* Dit gaat over de tweede en derde regel van de tekst op het voorwerp met zijn naam erop */
 li article section:first-of-type p {
   color: var(--drake-objects-text-color);
   font-family: "nathanmedium", sans-serif;
   font-size: 0.8em;
 }
 
+li article section:first-of-type p {
+  margin: 0em;
+}
+
+/* Dit is de basis stijling van het voorwerp waar zijn naam op staat */
 li article section:first-of-type {
   pointer-events: none;
   opacity: 0;
@@ -149,23 +169,21 @@ li article section:first-of-type {
   border-radius: 0.15em;
 }
 
-li article section:first-of-type p {
-  margin: 0em;
-}
-
+/* Dit is de animatie voor het voorwerp dat verschijnt */
 li:hover article section:first-of-type ,li:focus-within article section:first-of-type {
-  animation-name: drakeFileThrow;
+  animation-name: objectWithNameThrow;
   animation-duration: 1s;
   animation-fill-mode: forwards;
 }
 
+/* Dit is de animatie voor de descriptie */
 li:hover article section:nth-of-type(2) ,li:focus-within article section:nth-of-type(2) {
   animation-name: descriptionFade;
   animation-duration: 2s;
   animation-fill-mode: forwards;
-  ı
 }
 
+/* Dit is de descriptie stijling */
 li article section:nth-of-type(2) {
   color: var(--text-color);
   text-shadow: 1px 1px 2px black;
@@ -188,12 +206,14 @@ img {
 }
 
 /* 1988 */
+/* Dit gaat over de background-image */
 main>ol>li:nth-of-type(1) {
   background-image: url(../images/1988Cover.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+/* Dit gaat over het voorwerp met zijn naam */
 li:nth-of-type(1) article section:first-of-type {
   border: none;
   top: 12em;
@@ -203,6 +223,7 @@ li:nth-of-type(1) article section:first-of-type {
   filter: brightness(0.9);
 }
 
+/* Dit gaat over de afbeelding waar zijn naam opstaat */
 li:nth-of-type(1) article section:first-of-type img {
   max-width: 178%;
   position: absolute;
@@ -351,6 +372,7 @@ li:nth-of-type(7) article section:first-of-type img {
   width: 16em;
 }
 
+/* Uncharted logo's onderaan de list items */
 .logo {
   display: block;
   position: absolute;
@@ -363,6 +385,7 @@ li:hover .logo,li:focus-within .logo {
   opacity: 0;
 }
 
+/* Nathan Drake verschijnt on hover met animatie */
 .drakeImage {
   pointer-events: none;
   transition: padding-left 1s, opacity 0.3s;
@@ -378,6 +401,10 @@ li:hover .drakeImage,li:focus-within .drakeImage {
   animation-duration: 2s;
   animation-fill-mode: forwards;
 }
+
+
+
+
 
 /********/
 /* LINK */
@@ -418,6 +445,10 @@ a:hover:after ,a:focus:after {
   transform-origin: bottom left;
 }
 
+
+
+
+
 /**********/
 /* RELICS */
 /**********/
@@ -425,6 +456,7 @@ a:hover:after ,a:focus:after {
 li .relic{
     opacity: 0;
 }
+
 li:hover .relic, li:focus-within .relic {
   pointer-events: all;
   position: absolute;
@@ -441,12 +473,14 @@ li:hover .relic, li:focus-within .relic {
  cursor: url('../images/chestCursor48.png') 24 24, auto;
 }
 
+/* Opacity voor alle popups van de relics */
 body>section{
   z-index: 9999999;
   pointer-events: none;
   transition: all 1.5s;
   opacity: 0;
 }
+
 body>section.active{opacity: 1 !important}
 
 body>section img{
@@ -483,6 +517,10 @@ li:nth-of-type(7) .relic  {
   top:12em;
 }
 
+
+
+
+
 /*************/
 /* ANIMATION */
 /*************/
@@ -498,7 +536,7 @@ li:nth-of-type(7) .relic  {
   }
 }
 
-@keyframes drakeFileThrow {
+@keyframes objectWithNameThrow {
   0% {
     opacity: 0;
     transform: rotate(15deg) scale(0.7) translate(120px, 600px);

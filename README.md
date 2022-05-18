@@ -202,7 +202,10 @@ Mijn startniveau is: blauw, volgens Sanne rood.
 
 ### Je uitkomst - karakteristiek screenshot(s):
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/headerscreenshot.png" width="375px" alt="screenshot van de header">
+  <img src="readme-images/timelinescreenshot.png" width="375px" alt="screenshot van de tijdlijn">
+  <img src="readme-images/hoverscreenshot.png" width="375px" alt="screenshot van een item in de tijdlijn">
+  <img src="readme-images/relicscreenshot.png" width="375px" alt="screenshot van een relic nadat je het hebt gevonden en erop hebt geklikt">
 
 ### Dit ging goed/Heb ik geleerd:
 
@@ -210,7 +213,9 @@ Mijn startniveau is: blauw, volgens Sanne rood.
 
   Ook weet ik hoe je tabindex moet gebruiken. Net zoals bij de custom properties was ik bang dat dit heel veel werk zou zijn, maar nee.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  Beestje cheesey; maar alles wat ik in deze website heb gedaan, heb ik geleerd.
+
+  (Ik heb hier niet echt afbeeldingen om te laten zien)
 
 ### Dit was lastig/Is niet gelukt:
 
@@ -270,6 +275,5 @@ Afbeeldingen
 Code
 1. Horizontale tijdlijn flex - <https://codepen.io/shooft/pen/XWZKdgM> van Sanne naar een idee van Jen Simmons
 2. Hover underline animation - <https://www.30secondsofcode.org/css/s/hover-underline-animation> van Trinityyi
-3.
 
 </details>
