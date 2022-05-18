@@ -213,7 +213,7 @@ Mijn startniveau is: blauw, volgens Sanne rood.
 
   Ook weet ik hoe je tabindex moet gebruiken. Net zoals bij de custom properties was ik bang dat dit heel veel werk zou zijn, maar nee.
 
-  Beestje cheesey; maar alles wat ik in deze website heb gedaan, heb ik geleerd.
+  Beestje cheesy; maar alles wat ik in deze website heb gedaan, heb ik geleerd.
 
   (Ik heb hier niet echt afbeeldingen om te laten zien)
 
