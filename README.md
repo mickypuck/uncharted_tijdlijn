@@ -1,14 +1,4 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
-
 
 ## Jij
 
@@ -101,7 +91,7 @@ Mijn startniveau is: blauw, volgens Sanne rood.
 ## Voortgang/Feedback 2
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen</summary>
 
   ### Bevinding 1:
   <img src="readme-images/responsiveness.png" width="375px" alt="responsiveness ontwerp">
@@ -111,6 +101,7 @@ Mijn startniveau is: blauw, volgens Sanne rood.
   Ik ga de jaartallen waarschijnlijk met een media query responsive maken. En ik ga mij niet heel erg focussen op kleinere schermen. Ik maak de website een beetje responsive, ook door tijd tekort.
 
   #### update:
+  Ik heb de jaartallen nu iets kleiner gemaakt, waardoor het op kleinere schermen er iets beter uit ziet.
 
   ### Bevinding 2:
   <img src="readme-images/contrast1.png" width="375px" alt="contrast donkere achtergrond">
@@ -163,25 +154,20 @@ Mijn startniveau is: blauw, volgens Sanne rood.
 ## Voortgang/Feedback 3
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen</summary>
 
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Nog even letten op toetsenbordnavigatie. - Ellen
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Als ik genoeg tijd over heb, dan ga ik proberen dat toe te passen.
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Ik vind de tekst van de header onder het logo nog niet pakkend genoeg. - Mirte
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
-
-  ### Bevinding 3:
-  ...
+  Als ik tijd genoeg heb dan ga ik kijken of ik daar wat aan kan doen.
 
 </details>
 
@@ -208,9 +194,6 @@ Mijn startniveau is: blauw, volgens Sanne rood.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
-
-
-
 
 
 ## Bronnenlijst
