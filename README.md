@@ -232,44 +232,44 @@ Mijn startniveau is: blauw, volgens Sanne rood.
 <summary>continu bijhouden terwijl je werkt</summary>
 
 Afbeeldingen
-1\. Favicon - <https://strategywiki.org/wiki/Uncharted:_Drake%27s_Fortune/Trophies> van ?
-2\. 1988 background image - <https://www.artstation.com/artwork/gGdzm> van Rogelio Olguin
-3\. 1991 background image - <https://www.artstation.com/artwork/nxb06> van Brian Recktenwald
-4\. 2001 background image - <https://www.artstation.com/artwork/dGRbJ> van Simon Craghead
-5\. 2007 background image - <https://www.artstation.com/artwork/xz34PY> van Christophe Desse
-6\. 2009 background image - <https://www.artstation.com/artwork/5BXYXE> van Bibhab Raj Joshi
-7\. 2011 background image - <https://www.artstation.com/artwork/lyGR5> van Adrian Castro
-8\. 2016 background image - <https://www.artstation.com/artwork/uncharted-4-a-thief-s-end-madagascar> van Anthony Vaccaro
-9\. 1988 Nathan Drake image - <https://www.artstation.com/artwork/eVBEY> van Frank Tzeng
-10\. 1991 Nathan Drake image - <https://mygameslounge.com/reviews/uncharted-3-drakes-deception-hd-review/> van David Game
-11\. 2001 Nathan Drake image - <https://unchartedsterritory.tumblr.com/post/152501435322/nathan-drake-in-uncharted-4-chapter-2-infernal> van thenerdychronicles
-12\. 2007 Nathan Drake image - <https://pngset.com/download-free-png-pkrvl> van ?
-13\. 2009 Nathan Drake image - <https://www.leatherjacketblack.com/product/nathan-drake-uncharted-2-jacket/> van ?
-14\. 2011 Nathan Drake image - <https://www.pngwing.com/en/free-png-bxbvt> van ?
-15\. 2016 Nathan Drake image - <http://toolsandtoys.net/reviews/a-review-of-uncharted-4-a-thiefs-end/> van Alvaro Serrano
-16\. Uncharted 1 logo - <https://logodix.com/logos/1610547> van ?
-17\. Uncharted 2 logo - <https://www.pngplay.com/nl/image/259130> van Arsh
-18\. Uncharted 3 logo - <https://www.deviantart.com/jaz350z/art/Uncharted-3-Logo-Render-189072115> van jaz350z
-19\. Uncharted 4 logo - <https://www.pngplay.com/nl/image/166871> van Arsh
-20\. Uncharted logo header - <https://uncharted.fandom.com/wiki/Uncharted_series> van ?
-21\. Relic 1 (ring) - <https://www.pricepulse.app/sir-francis-drake-ring-necklace-from-uncharted-3-c_us_12052217> van ?
-22\. Relic 2 (dagger) - <https://www.artstation.com/artwork/wGrnO> van Josh Pears
-23\. Relic 3 (coin) - <https://www.artstation.com/artwork/QLlyB> van Bradford Smith
-24\. Relic 4 (compass) - <https://www.artstation.com/artwork/0XKkLY> van Khairizal Anwar
-25\. Wrinkled paper - <https://flyclipart.com/paper-wrinkled-lines-to-write-signs-note-paper-rug-paper-towel-towel-hd-png-download-1118377> van ?
-26\. Mugshot Nathan Drake - <https://segmentnext.com/uncharted-4-nathan-drake-model-shows-off-new-character-detail/> van Paul Metcalf
-27\. ID image - <https://www.insider.com/what-drivers-license-looks-like-in-every-state#alabamas-drivers-license-shows-the-states-capitol-building-which-is-located-in-montgomery-1> van Gabbi Shaw and Frank Olito
-28\. ID Nathan Drake - <https://www.thegamer.com/20-times-nathan-drake-was-definitely-one-of-us/> van TG STAFF
-29\. Postcard - <https://hdclipartall.com/vintage-clip-art-darling-snowman-postcard-finland-postcard-clipart-1600_1061-081612.html> van ?
-30\. Wedding picture - <https://twitter.com/bestofvidgames/status/1333083319374901251?lang=zh-Hant> van bestofvidgames
-31\. Card holder mockup - <https://www.divineworks.biz/free-card-holder-mockup/> van divineworks
-32\. Coffee stain - <https://cosplayandcoffee.com/cropped-coffee-stain-png/> van Cosplay and Coffee
-33\. Paperclip - <https://www.clipartmax.com/middle/m2i8N4i8H7i8H7m2_paperclip-png-download-paper-clip-png-transparent/> van ?
-34\. Old paper texture - <https://wallpaperaccess.com/old-paper> - van ?
+1. Favicon - <https://strategywiki.org/wiki/Uncharted:_Drake%27s_Fortune/Trophies> van ?
+2. 1988 background image - <https://www.artstation.com/artwork/gGdzm> van Rogelio Olguin
+3. 1991 background image - <https://www.artstation.com/artwork/nxb06> van Brian Recktenwald
+4. 2001 background image - <https://www.artstation.com/artwork/dGRbJ> van Simon Craghead
+5. 2007 background image - <https://www.artstation.com/artwork/xz34PY> van Christophe Desse
+6. 2009 background image - <https://www.artstation.com/artwork/5BXYXE> van Bibhab Raj Joshi
+7. 2011 background image - <https://www.artstation.com/artwork/lyGR5> van Adrian Castro
+8. 2016 background image - <https://www.artstation.com/artwork/uncharted-4-a-thief-s-end-madagascar> van Anthony Vaccaro
+9. 1988 Nathan Drake image - <https://www.artstation.com/artwork/eVBEY> van Frank Tzeng
+10. 1991 Nathan Drake image - <https://mygameslounge.com/reviews/uncharted-3-drakes-deception-hd-review/> van David Game
+11. 2001 Nathan Drake image - <https://unchartedsterritory.tumblr.com/post/152501435322/nathan-drake-in-uncharted-4-chapter-2-infernal> van thenerdychronicles
+12. 2007 Nathan Drake image - <https://pngset.com/download-free-png-pkrvl> van ?
+13. 2009 Nathan Drake image - <https://www.leatherjacketblack.com/product/nathan-drake-uncharted-2-jacket/> van ?
+14. 2011 Nathan Drake image - <https://www.pngwing.com/en/free-png-bxbvt> van ?
+15. 2016 Nathan Drake image - <http://toolsandtoys.net/reviews/a-review-of-uncharted-4-a-thiefs-end/> van Alvaro Serrano
+16. Uncharted 1 logo - <https://logodix.com/logos/1610547> van ?
+17. Uncharted 2 logo - <https://www.pngplay.com/nl/image/259130> van Arsh
+18. Uncharted 3 logo - <https://www.deviantart.com/jaz350z/art/Uncharted-3-Logo-Render-189072115> van jaz350z
+19. Uncharted 4 logo - <https://www.pngplay.com/nl/image/166871> van Arsh
+20. Uncharted logo header - <https://uncharted.fandom.com/wiki/Uncharted_series> van ?
+21. Relic 1 (ring) - <https://www.pricepulse.app/sir-francis-drake-ring-necklace-from-uncharted-3-c_us_12052217> van ?
+22. Relic 2 (dagger) - <https://www.artstation.com/artwork/wGrnO> van Josh Pears
+23. Relic 3 (coin) - <https://www.artstation.com/artwork/QLlyB> van Bradford Smith
+24. Relic 4 (compass) - <https://www.artstation.com/artwork/0XKkLY> van Khairizal Anwar
+25. Wrinkled paper - <https://flyclipart.com/paper-wrinkled-lines-to-write-signs-note-paper-rug-paper-towel-towel-hd-png-download-1118377> van ?
+26. Mugshot Nathan Drake - <https://segmentnext.com/uncharted-4-nathan-drake-model-shows-off-new-character-detail/> van Paul Metcalf
+27. ID image - <https://www.insider.com/what-drivers-license-looks-like-in-every-state#alabamas-drivers-license-shows-the-states-capitol-building-which-is-located-in-montgomery-1> van Gabbi Shaw and Frank Olito
+28. ID Nathan Drake - <https://www.thegamer.com/20-times-nathan-drake-was-definitely-one-of-us/> van TG STAFF
+29. Postcard - <https://hdclipartall.com/vintage-clip-art-darling-snowman-postcard-finland-postcard-clipart-1600_1061-081612.html> van ?
+30. Wedding picture - <https://twitter.com/bestofvidgames/status/1333083319374901251?lang=zh-Hant> van bestofvidgames
+31. Card holder mockup - <https://www.divineworks.biz/free-card-holder-mockup/> van divineworks
+32. Coffee stain - <https://cosplayandcoffee.com/cropped-coffee-stain-png/> van Cosplay and Coffee
+33. Paperclip - <https://www.clipartmax.com/middle/m2i8N4i8H7i8H7m2_paperclip-png-download-paper-clip-png-transparent/> van ?
+34. Old paper texture - <https://wallpaperaccess.com/old-paper> - van ?
 
 Code
-1\. Horizontale tijdlijn flex - <https://codepen.io/shooft/pen/XWZKdgM> van Sanne naar een idee van Jen Simmons
-2\. Hover underline animation - <https://www.30secondsofcode.org/css/s/hover-underline-animation> van Trinityyi
-3\.
+1. Horizontale tijdlijn flex - <https://codepen.io/shooft/pen/XWZKdgM> van Sanne naar een idee van Jen Simmons
+2. Hover underline animation - <https://www.30secondsofcode.org/css/s/hover-underline-animation> van Trinityyi
+3.
 
 </details>
