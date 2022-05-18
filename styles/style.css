@@ -66,7 +66,7 @@ header {
   text-align: center;
   font-size: 1.6em;
   animation-name: titleScreenFade;
-  animation-delay: 0s;
+  animation-delay: 3s;
   animation-duration: 3s;
   animation-fill-mode: forwards;
 }
@@ -418,6 +418,13 @@ a:hover:after ,a:focus:after {
   transform-origin: bottom left;
 }
 
+/**********/
+/* RELICS */
+/**********/
+
+li .relic{
+    opacity: 0;
+}
 li:hover .relic, li:focus-within .relic {
   pointer-events: all;
   position: absolute;
@@ -434,8 +441,21 @@ li:hover .relic, li:focus-within .relic {
  cursor: url('../images/chestCursor48.png') 24 24, auto;
 }
 
-#popup1991 img{ max-height: 30vh;}
+body>section{
+  z-index: 9999999;
+  pointer-events: none;
+  transition: all 1.5s;
+  opacity: 0;
+}
+body>section.active{opacity: 1 !important}
+
+body>section img{
+  max-height: 30vh;
+  max-width: 30vw;
+}
+
 #popup1991,#popup2007,#popup2011,#popup2016{
+  opacity: 0;
   position: absolute;
   display: flex;
   justify-content: center;
@@ -445,21 +465,22 @@ li:hover .relic, li:focus-within .relic {
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.8);
 }
-.relic:nth-of-type(1) {
+
+li:nth-of-type(2) .relic {
   left: 20em;
-  top:10em;
+  top: 10em;
 }
-.relic:nth-of-type(2) {
-  left: 20em;
-  top:10em;
+li:nth-of-type(4) .relic {
+  left: 23em;
+  top: 20em;
 }
-.relic:nth-of-type(3) {
-  left: 20em;
-  top:10em;
+li:nth-of-type(6) .relic  {
+  left: 30em;
+  top: 20em;
 }
-.relic:nth-of-type(4) {
-  left: 20em;
-  top:10em;
+li:nth-of-type(7) .relic  {
+  left: 50em;
+  top:12em;
 }
 
 /*************/
