@@ -121,6 +121,7 @@ Mijn startniveau is: blauw, volgens Sanne rood.
   Ik heb het er ook met Sanne over gehad en ik ga nu een background toevoegen, voor beter contrast. Uncharted heeft 4 games met 4 verschillende menu stijlen. Ik ga die nu namaken en toevoegen aan de achtergrond van de tekst.
 
   #### update:
+  Door tijd tekort en omdat het best lelijk eruit ziet. Heel inconsistent. Heb ik nu een Uncharted 1 stijl achtergrond gekozen voor de tekst om het contrast beter te maken. Ook heb ik een drop shadow toegevoegd aan de tekst. Dit is heel gebruikelijk voor Uncharted.
 
   ### Bevinding 3:
   Nog meer commentaar in de code weergeven. - Zara
